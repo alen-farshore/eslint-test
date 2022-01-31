@@ -15,6 +15,7 @@ module.exports = {
   rules: {
     'comma-dangle': 'off',
     'arrow-body-style': ['error', 'always'],
+    'no-extra-semi': 'off',
     'react/jsx-filename-extension': 'off',
     'react/function-component-definition': [
       'error',
